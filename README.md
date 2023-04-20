@@ -35,12 +35,10 @@ Specify the model argument:
 -MLP: multi-layer perceptron with one hidden layer (500 units)
 
 ## citation
-@inproceedings{DBLP:conf/icml/GaoZ21,
-  author       = {Yi Gao and
-                  Min{-}Ling Zhang},
-  title        = {Discriminative Complementary-Label Learning with Weighted Loss},
-  booktitle    = {Proceedings of the 38th International Conference on Machine Learning,
-                  {ICML} 2021, 18-24 July 2021, Virtual Event},
-  volume       = {139},
-  year         = {2021}
-}
+<code data-enlighter-language="raw" class="EnlighterJSRAW">@inproceedings{DBLP:conf/icml/GaoZ21,
+  author = {Yi Gao and Min{-}Ling Zhang},
+  title = {Discriminative Complementary-Label Learning with Weighted Loss},
+  booktitle = {Proceedings of the 38th International Conference on Machine Learning, {ICML} 2021, 18-24 July 2021, Virtual Event},
+  volume = {139},
+  year = {2021}
+  }</code>

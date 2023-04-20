@@ -1,6 +1,6 @@
 # complementary-label-learning
 
-This code gives the implementation  of our approach.
+This code gives the implementation of the paper ''Discriminative Complementary-Label Learning with Weighted Loss''.
 
 
 Requirements
@@ -33,3 +33,14 @@ Specify the model argument:
 -linear: linear model
   
 -MLP: multi-layer perceptron with one hidden layer (500 units)
+
+## citation
+@inproceedings{DBLP:conf/icml/GaoZ21,
+  author       = {Yi Gao and
+                  Min{-}Ling Zhang},
+  title        = {Discriminative Complementary-Label Learning with Weighted Loss},
+  booktitle    = {Proceedings of the 38th International Conference on Machine Learning,
+                  {ICML} 2021, 18-24 July 2021, Virtual Event},
+  volume       = {139},
+  year         = {2021}
+}

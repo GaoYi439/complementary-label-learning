@@ -17,7 +17,7 @@ This is main function. After running the code, you should see a text file with t
 The results will have four columns: epoch number, training accuracy, test accuracy, train loss.
 
 
-python demo.py --me  <method name> --mo <model name>
+python demo.py --me  \<method name\> --mo \<model name\>
 
   
 Methods and models
